@@ -1,3 +1,6 @@
+# Hello, I am Linus. I like to code random things occasionally.
+
+
 <a href="https://github.com/u7r">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=u7r&show_icons=true&theme=dark&text_color=EAD3FF&icon_color=EAD3FF" alt="">
