@@ -9,4 +9,5 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=u7r&color=lightgrey" alt="☆">
   </p>
+  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/747491888860495973"/>
 </a>
