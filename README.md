@@ -1,16 +1,7 @@
 <h1 align="center"> linus :) </h1>
-<br/>
-<style>
-    .center {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%;
-    }
-</style>
 <a href="https://github.com/u7r">
     <br>
-    <img src="https://komarev.com/ghpvc/?username=u7r&color=red" class="center">
+    <img src="https://komarev.com/ghpvc/?username=u7r&color=red" style="margin-left: auto; margin-right: auto;">
   </p>
 </a>
 <a href="https://github.com/u7r">
