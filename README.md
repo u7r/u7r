@@ -1,4 +1,4 @@
-<p align="center"> linus :) </p>
+<h1 align="center"> linus :) </h1>
 <br/>
 <a href="https://github.com/u7r">
     <br>
