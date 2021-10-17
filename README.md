@@ -1,8 +1,8 @@
 <h1 align="center"> linus :) </h1>
 <a href="https://github.com/u7r">
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=u7r&color=red" style="margin-left: auto; margin-right: auto;">
-  </p>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=u7r&color=red">
+    </p>
 </a>
 <a href="https://github.com/u7r">
   <p align="center">
