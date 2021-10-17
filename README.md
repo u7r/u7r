@@ -2,7 +2,7 @@
 <br/>
 <a href="https://github.com/u7r">
     <br>
-    <img src="https://komarev.com/ghpvc/?username=u7r&color=lightgrey" alt="☆">
+    <img align="center" src="https://komarev.com/ghpvc/?username=u7r&color=lightblue" alt="☆">
   </p>
 </a>
 <a href="https://github.com/u7r">
